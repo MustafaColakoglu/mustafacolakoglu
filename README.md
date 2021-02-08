@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafacolakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="mustafacolakoglu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafacolakoglu" alt="mustafacolakoglu" /></a> </p>
-
-
+![Alt Text](https://media1.popsugar-assets.com/files/thumbor/OZ7UwxWJMOvw_mFhXM2FP9MA5L0/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2018/09/12/908/n/1922283/addurl1Hy7oL/i/From-Makeshift-Dance-Parties.gif)
 
 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafacolakoglu&show_icons=true&locale=en&layout=compact" alt="mustafacolakoglu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafacolakoglu&show_icons=true&locale=en" alt="mustafacolakoglu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafacolakoglu&" alt="mustafacolakoglu" /></p>
